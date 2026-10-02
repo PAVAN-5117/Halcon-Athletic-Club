@@ -1,0 +1,39 @@
+{
+  "consoleErrors": [],
+  "networkErrors": [],
+  "overflows": [],
+  "flowResults": [
+    {
+      "flow": "Find-Your-Fit Quiz",
+      "success": true
+    },
+    {
+      "flow": "Tour Booking",
+      "success": true
+    },
+    {
+      "flow": "Class Booking",
+      "success": true
+    },
+    {
+      "flow": "Class Waitlist",
+      "success": true
+    },
+    {
+      "flow": "Membership Application",
+      "success": true
+    },
+    {
+      "flow": "Member Login & Dashboard",
+      "success": true
+    },
+    {
+      "flow": "Newsletter",
+      "success": true
+    },
+    {
+      "flow": "Concierge Chat",
+      "success": true
+    }
+  ]
+}
